@@ -1,5 +1,5 @@
 streamlit
-tensorflow
-numpy
+tensorflow-cpu==2.10.0
 pillow
-qrcode
+numpy
+qrcodee
